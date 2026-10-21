@@ -1,6 +1,6 @@
 # Research Tools And Templates Index
 
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 Curated index of Claude Code research workspaces, templates, agents, and related tooling used for structured deep-research workflows.
 
